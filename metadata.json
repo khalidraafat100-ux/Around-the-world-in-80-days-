@@ -1,0 +1,6 @@
+{
+  "name": "ملخص حول العالم في 80 يوماً",
+  "description": "تطبيق تفاعلي ثنائي اللغة (عربي/إنجليزي) يضم النص الكامل لرواية 'حول العالم في ثمانين يوماً' لجول فيرن مع كافة الميزات الميكانيكية والهندسية المتقدمة، الفصول الستة، مسار الرحلة، حل تمارين Oxford Family and Friends 5، والتصدير إلى Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
